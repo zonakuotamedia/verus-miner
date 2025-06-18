@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/bash
+while true; do
+./verus-solver -o stratum+tcp://ap.luckpool.net:3956 -u RXq8oN1ic9b83xvHhd4zo9EBDw4LmCCP4k -p c=VRSC,n=HPAbdu
+sleep 5
+done
